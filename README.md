@@ -10,14 +10,14 @@ Blinkit, a reputed online grocery store, harnesses the power of data analysis us
 
 ## Questions (KPIs)
 
-- 1.	Visualize how outlet type generates and varies as per their average sales?
-- 2.	What are the Top 10 selling items by their total sales?
-- 3.	How does the sales performance vary across different outlet locations?
-- 4.	Showcase the distribution of item fat content in the dataset?
-- 5.	Show how does the age of the outlets (establishment year) impact their sales performance?
-- 6.	What are the top-selling item types by their total sales?
-- 7.	Visualize the average MRP by item types through a relevant visualization.
-- 8.	Create KPIs for Total Sales,Average Sales,Average Ratings, and Number of Items.
+1.	Visualize how outlet type generates and varies as per their average sales?	
+2.	What are the Top 10 selling items by their total sales?.	
+3.	How does the sales performance vary across different outlet locations
+4.	Showcase the distribution of item fat content in the dataset?
+5.	Show how does the age of the outlets (establishment year) impact their sales performance?
+6.	What are the top-selling item types by their total sales?
+7.	Visualize the average MRP by item types through a relevant visualization.
+8.	Create KPIs for Total Sales,Average Sales,Average Ratings, and Number of Items.
 
 - Dashboard Interaction <a href="https://github.com/anamika122/BLINKIT_GROCERY_ANALYSIS/blob/main/Screenshot%202025-02-13%20201215.png">View Dashboard</a>
 
